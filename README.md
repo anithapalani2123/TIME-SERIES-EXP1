@@ -1,4 +1,4 @@
-# TIME-SERIES-EXP1
+
 # EXP-1-Plot-a-time-series-data
 
 ## AIM:
